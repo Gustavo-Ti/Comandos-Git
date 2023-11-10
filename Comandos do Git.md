@@ -19,11 +19,27 @@ git commit -m "Mensagem explicativa"
 git branch -M main  
 git remote add origin git@github.com:seuusuario/seurepositorio.git  
 git push -u origin main  
-
+  
   
 ## Passo a passo: salvar uma nova versão
 git status  
 git add .  
 git commit -m "Mensagem explicativa"  
 git push  
+  
+  
+## Demo:
+ clonar e modificar um projeto de um repositório remoto que você tem permissão para alterar  
+   
+git clone git@github.com:seuusuario/seurepositorio.git  
+git add .  
+git commit -m "Mensagem explicativa"  
+git push  
+  
+    
+## Verificando o histórico de versões  
+  
+git log  
 
+Listagem resumida:  
+git log --oneline  
