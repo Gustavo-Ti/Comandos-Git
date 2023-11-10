@@ -1,4 +1,4 @@
-# Guia git basico[https://mastigado.wordpress.com/2017/05/05/salva-vidas-basico-do-git/]
+# [Guia git basico](https://mastigado.wordpress.com/2017/05/05/salva-vidas-basico-do-git/)
 
 ## Configurando sua identificação no Git
 
